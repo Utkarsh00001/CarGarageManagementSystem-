@@ -1,0 +1,1 @@
+Objective: The major objective of this system is to maintain the record of vehicle as well as customer and maintain the record of servicing like as space replacement, servicing charges and calculate the bill of customer.
